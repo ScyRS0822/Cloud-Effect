@@ -1,4 +1,4 @@
-# CloudRadiativeEffect
+# Cloud Effect on Surface Temperature
 The code and description related to my CET paper
 
 The functions of these Python files are as follows:
