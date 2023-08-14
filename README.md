@@ -10,4 +10,4 @@ The functions of these Python files are as follows:
 5) Curve: Generate the daily variation curves of surface temperature (Fig. 1 and Fig. 3).
 6) Yearly0: Generate the global average annual CET (Fig. 4).
 7) 3poles: Generate the Monthly Global Average CET image.
-8) Excel: Using global monthly average CET images to calculate monthly average CET at global and bipolar scales (Fig. 5)
+8) Excel: Using global monthly average CET images to calculate monthly average CET at global and bipolar scales (Fig. 5).
